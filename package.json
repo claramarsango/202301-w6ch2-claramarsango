@@ -1,7 +1,7 @@
 {
-  "name": "base-backend-express",
+  "name": "things-i-already-know",
   "version": "1.0.0",
-  "description": "This is a demo project with default configs",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
